@@ -1,0 +1,9 @@
+apiVersion: v1
+name: kronos-hca
+description: HCA Helm chart for Kubernetes
+type: application
+Version: 1.0.0
+AppVersion: "08.03.00"
+Maintainers: 
+  - name: Ravinder Kumar
+    email: ravinder.kumar@ukg.com
